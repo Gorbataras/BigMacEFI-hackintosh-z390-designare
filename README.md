@@ -1,18 +1,9 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+# OpenCore EFI Gigabyte z390 Designare
 
-\f0\fs24 \cf0 # OpenCore EFI Gigabyte z390 Designare\
-\
-## Specs\
-- CPU: 	Intel i9-9900k\
-- Mobo: 	Gigabyte z390 Designare\
-- RAM: 	G.Skill Ripjaws V 2x16GB\
-- GPU: 	Gigabyte RX 5700xt\
-- WIFI/BT:	TODO\
-- Case:	NZXT h510\
-\
-}
+## Specs
+- CPU: 	Intel i9-9900k
+- Mobo: 	Gigabyte z390 Designare
+- RAM: 	G.Skill Ripjaws V 2x16GB
+- GPU: 	Gigabyte RX 5700xt
+- WIFI/BT:	TODO
+- Case:	NZXT h510
